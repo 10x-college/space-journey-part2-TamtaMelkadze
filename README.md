@@ -83,6 +83,8 @@ Card 3: Nebula Resort (Class: Luxury)
 
 Card 4: Event Horizon (Class: Extreme)
 
+
+
 Step 5: The Departure Board
 Create the second section for the flight schedule.
 
